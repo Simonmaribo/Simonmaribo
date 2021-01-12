@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hello there, I'm Simon <p align="right"> <img src="https://komarev.com/ghpvc/?username=simonmaribo" alt="Simon" /> </p>
 
 
