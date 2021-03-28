@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A kid who hates cola, and enjoy code.</h3>
+<h3 align="center">Discord: SIMON#1386</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simonmaribo&label=Profile%20Views&color=28a0dc&style=flat" alt="simonmaribo" /> </p>
 
