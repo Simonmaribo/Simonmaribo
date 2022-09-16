@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
+<h1 align="center">Hey 👋, I'm Simon</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simonmaribo&label=Profile%20Views&color=28a0dc&style=flat" alt="simonmaribo" /> </p>
 
