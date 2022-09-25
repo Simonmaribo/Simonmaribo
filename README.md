@@ -2,7 +2,7 @@
 <p>I'm a self-taught software enginess from Denmark - almost full stack dev i suppose • can do anything but design :D</p>
 
 <a target="_blank" rel="opener" href="https://wakatime.com/@simonmaribo">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=simonmaribo&border_radius=5px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&update=true" width="50%" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=simonmaribo&border_radius=5px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&update=false" width="50%" align="right">
 </a>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmaribo&show_icons=true&theme=dark&title_color=28a0dc&bg_color=161B22&border_color=161B22&icon_color=58a6ff&locale=en&layout=compact&update=true" alt="simonmaribo" /></p>
